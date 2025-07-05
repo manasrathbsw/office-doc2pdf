@@ -26,7 +26,7 @@ A powerful Streamlit web application that converts Microsoft Word and PowerPoint
 
 ### 1. Clone or Download
 ```bash
-git clone <repository-url>
+git clone https://github.com/manasrathbsw/office-doc2pdf.git
 cd office-to-pdf-converter
 ```
 
